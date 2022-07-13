@@ -1,0 +1,36 @@
+html {
+    background-image: url(https://dimg03.c-ctrip.com/images/100112000000sqg2jF3F1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 17px;
+}
+
+.first {
+    position: absolute;
+    left: 45%;
+    bottom: 10%;
+}
+
+.second{
+    position: absolute;
+    top: 24%;
+    right: 7%;
+}
+
+.third{
+    position: absolute;
+    right: 24%;
+    bottom: 15%;
+}
+
+.fourth{
+    position: absolute;
+    right: 32%;
+    bottom: 50%;
+}
+
+.kirill{
+    position: absolute;
+    left: 5.9%;
+    bottom: 13%;
+}
